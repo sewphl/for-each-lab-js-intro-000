@@ -8,6 +8,6 @@ function iterativeLog(array) {
 
 function iterate(callback) {
   var array = ["peanutbutter","coffee"];
-  array.forEach(callback;)
+  array.forEach(callback);
   return(array);
 }
