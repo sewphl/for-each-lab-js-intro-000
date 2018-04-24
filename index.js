@@ -7,7 +7,7 @@ function iterativeLog(array) {
 */
 
 function iterate(callback) {
-  var array = ["peanutbutter"];
-  array.forEach(callback();)
+  var array = ["peanutbutter","coffee"];
+  array.forEach(callback;)
   return(array);
 }
